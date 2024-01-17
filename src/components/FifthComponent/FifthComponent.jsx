@@ -14,9 +14,9 @@ const FifthComponent = () => {
         <img src="/src/components/FifthComponent/phone.png" alt="phone image" className="w" />
       </div> */}
       <div className="flex flex-wrap">
-        <img src="public/laptop.png" alt="laptop image" className="w-70 flex-shrink-0 m-12" />
-        <img src="/public/ipad.png" alt="ipad image" className="w-30 flex-shrink-0 m-12" />
-        <img src="/public/phone.png" alt="phone image" className="w-[13rem] m-20" />
+        <img src="laptop.png" alt="laptop image" className="w-70 flex-shrink-0 m-12" />
+        <img src="/ipad.png" alt="ipad image" className="w-30 flex-shrink-0 m-12" />
+        <img src="/phone.png" alt="phone image" className="w-[13rem] m-20" />
       </div>
     </div>
   )

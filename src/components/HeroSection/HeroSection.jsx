@@ -28,7 +28,7 @@ const HeroSection = () => {
       </button>
       <div className='relative w-[63.75rem] h-[37.8175rem]'>
         <img
-        src={`/public/${currentImg}`}
+        src={`/${currentImg}`}
         alt={currentImg}
         className='w-[63.75rem] h-[37.8175rem] absolute top-0 left-0 rounded-sm transition ease-in-out'
         />
