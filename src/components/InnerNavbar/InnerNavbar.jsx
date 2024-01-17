@@ -7,7 +7,7 @@ const InnerNavbar = () => {
   return (
     <div className=" h-[5rem] bg-black opacity-90 border-t border-black flex flex-auto text-white">
       <div className="lg:w-[40%] w-[50%] flex items-center">
-        <img src="src/components/InnerNavbar/logo-white.png" alt="Blogar Logo" className=" m-3 h-[2.25rem]" />
+        <img src="public/logo-white.png" alt="Blogar Logo" className=" m-3 h-[2.25rem]" />
       </div>
       <div className="hidden lg:w-[25%] lg:flex lg:justify-evenly">
         <ul className="flex flex-grow justify-center items-center  font-bold">
